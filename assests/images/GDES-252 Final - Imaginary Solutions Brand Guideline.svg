@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900.44 244.42">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Verdana, Verdana;
+        font-size: 82.44px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #333;
+      }
+
+      .cls-4 {
+        letter-spacing: .03em;
+      }
+
+      .cls-5 {
+        letter-spacing: .04em;
+      }
+
+      .cls-2 {
+        font-family: Verdana-Bold, Verdana;
+        font-size: 74.21px;
+        font-weight: 700;
+        letter-spacing: .04em;
+      }
+
+      .cls-3, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-6 {
+        fill: orange;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="m199.36,47.34c1.66,3.55,2.53,7.42,2.53,11.52,0,6.24-1.97,11.85-5.75,16.46,17.58,8.38,29.76,26.32,29.76,47.06,0,28.73-23.37,52.1-52.1,52.1s-52.1-23.37-52.1-52.1c0-20.76,12.21-38.72,29.83-47.09-3.57-4.61-5.44-10.22-5.44-16.43,0-4.12.83-8.04,2.44-11.62-31.38,10.56-54,40.2-54,75.14,0,43.78,35.49,79.28,79.28,79.28s79.28-35.49,79.28-79.28c0-34.84-22.48-64.4-53.72-75.04Z"/>
+    <path class="cls-6" d="m157.73,58.86c0-4.41,1.48-8.2,4.46-11.36,2.97-3.16,6.76-4.75,11.36-4.75s8.53,1.58,11.79,4.75c3.26,3.16,4.89,6.95,4.89,11.36s-1.63,8.05-4.89,10.93c-3.26,2.88-7.19,4.31-11.79,4.31s-8.39-1.44-11.36-4.31c-2.97-2.88-4.46-6.52-4.46-10.93Z"/>
+    <rect class="cls-3" x="163.88" y="85.88" width="20.21" height="89.43"/>
+  </g>
+  <g>
+    <text class="cls-1" transform="translate(286.15 115.05)"><tspan class="cls-5" x="0" y="0">IMAGINA</tspan><tspan class="cls-4" x="400.27" y="0">R</tspan><tspan class="cls-5" x="460.08" y="0">Y</tspan></text>
+    <text class="cls-2" transform="translate(286.15 178.06)"><tspan x="0" y="0">SOLUTIONS</tspan></text>
+  </g>
+</svg>

@@ -6,3 +6,43 @@ body {
     /*GLOBALS*/
     margin:0; background-color:#ffffff;
 }
+
+h1 {
+    font-size: 1.8rem;
+}
+
+h2 {
+
+}
+
+header {
+
+}
+
+header .top-logo img {
+    display: block;
+    width: 188px;
+    margin: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+header nav ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+header nav ul li {
+    text-align: center;
+    width: 70px;
+    height: 25px;
+}
+
+main {
+
+}
+
+footer {
+
+}
