@@ -16,6 +16,10 @@ h2 {
 
 }
 
+p {
+    padding-bottom: 70px;
+}
+
 header {
 
 }
@@ -127,10 +131,49 @@ main {
 
 }
 
+.padding-main {
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
 section .welcome {
     background-color: blue;
 }
 
 footer {
 
+}
+
+.footer-container {
+    background-color: #FFA500;
+}
+
+footer li {
+    list-style: none;
+}
+
+footer .social-media {
+    display: flex;
+    justify-content:center;
+    /* align-content: space-around; */
+}
+
+footer .social-media img {
+    width: 60px;
+}
+
+.nav-footer-container {
+    display: flex;
+    justify-content: flex-end;
+    padding: 5px;
+}
+
+.nav-footer {
+    display: flex;
+    justify-content: center;
+    color:#FFA500;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-right: 30px;
 }
